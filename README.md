@@ -1,16 +1,19 @@
-# mini_habits
+# Mini Habits Mobile App
+ - Build in flutter framework for Android OS
+ - Use firebase database & authentification services
+ - It helps you procrastinate in a cool way
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Authentification Screen
+<img src="images\login.jpeg" alt="" width="400" />
+- Main Screen: Gives you a random habit to do
+<img src="images\main.jpeg" alt="" width="400" />
+- Habits Screen : Manage Habits (Add/Edit/Delete, Activate/ Deactivate)
+<img src="images\habits.jpeg" alt="" width="400" />
+- Domain Editing Screen : Edit Delete Mini Habits Domain
+<img src="images\domains.jpeg" alt="" width="400" />
+- Friends Screen : Shows you all your friends
+<img src="images\friends.jpeg" alt="" width="400" />
+- Friend Mini Habits Screen : Show a friend habits
+<img src="images\friendhabits.jpeg" alt="" width="400" />
